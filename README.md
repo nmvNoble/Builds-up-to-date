@@ -3,7 +3,7 @@
 
 <li>
   <strong>RGB Wizard</strong>, A 3D Arcade game made from scratch using Primitive objects.<br>
-  3 Elements. 3 Spells. Just how long can the RGB Wizard last fighting their own Kin? The RGB Wizard has to be quick to choose which combination of spell and element they should use to survive each wave.<br>
+  3 Elements. 3 Enemy types. 3 Spells. Just how long can the RGB Wizard last fighting the RGB Enemies? The RGB Wizard has to be quick to choose which combination of spell and element they should use based on the enemies they face to survive each wave.<br>
   https://github.com/nmvNoble/3D-Scripting
 </li>
 <li>
